@@ -80,10 +80,8 @@ data:
   official_statement: "" 
   sec_filing: "n/a"
   citations: |
-             [SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse
-]([https://twitter.com/keyboardio/status/1634383443982442497](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
+            [SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
   exposure_level: "unknown"
-
 
 - company_name: "Strongsuit"
   amount_of_employees: "15"
