@@ -155,6 +155,14 @@ data:
   citations: ""
   exposure_level: "unknown"
 
+- company_name: "Perplexity AI"
+  amount_of_employees: "unknown"
+  website_url: "[https://www.perplexity.ai/](https://www.perplexity.ai/)"
+  official_statement: "We use SVB for @perplexity_ai and were impacted by the recent events. Thanks to @natfriedman for stepping forward to help us with emergency funding on real short notice. Fortunate to be working with him!" 
+  sec_filing: ""
+  citations: "[Tweet by the founder](https://twitter.com/AravSrinivas/status/1634738893303189505)."
+  exposure_level: "unknown"
+
 - company_name: "Vimeo"
   amount_of_employees: "1300"
   website_url: "[https://www.vimeo.com/](https://www.vimeo.com/)"
