@@ -2,6 +2,8 @@
 
 An open-source database of companies who have been affected (or not) by the collapse of SVB.
 
+https://affectedbysvbornot.com
+
 ## Contributing
 
 - Contributions are welcome and encouraged to the `index.md` (which generates `index.html` / deploys the website) upon merge.
