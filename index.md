@@ -114,9 +114,17 @@ data:
   exposure_level: "unknown"
 
 
+- company_name: "Roblox"
+  amount_of_employees: "2100"
+  website_url: "[https://www.roblox.com/](https://www.roblox.com/)"
+  official_statement: "approximately 5% of its $3 billion cash and securities balance was held at SVB as of Feb. 28, 2023" 
+  sec_filing: "[https://d18rn0p25nwr6d.cloudfront.net/CIK-0001315098/05c0fe85-052c-4786-980c-7bdf467f8258.pdf](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001315098/05c0fe85-052c-4786-980c-7bdf467f8258.pdf)"
+  citations: ""
+  exposure_level: "unknown"
+
 - company_name: "Roku"
   amount_of_employees: "3000"
-  website_url: "[https://www.strongsuit.co/](https://www.strongsuit.co/)"
+  website_url: "[https://www.roku.com/](https://www.roku.com/)"
   official_statement: "At this time, the Company does not know to what extent the Company will be able to recover its cash on deposit at SVB" 
   sec_filing: "[https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm](https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm)"
   citations: ""
