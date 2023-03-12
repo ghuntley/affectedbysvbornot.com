@@ -3,37 +3,59 @@
 
 Test
 
+# Companies affected
+
 --- table ---
 
-    class: [statistics-table, nsa-surveillance-details]
+class: [affected-table, table]
 
-    cols:
-    - name: authority
-    - name: num_orders
-    - name: num_targets
+cols:
+- name: company_name
+- name: amount_of_employees
+- name: website_url
+- name: official_statement
+- name: sec_filing
+- name: citations
+- name: exposure_level
 
-    data:
-    - class: table-header
-      authority: Legal Authority
-      num_orders: Annual Number of Orders
-      num_targets: Estimated Number of Targets Affected
-    - authority: |
-                  __FISA Orders__
-                  Based on probable cause
-                  (Title I and III of FISA, Sections 703 and 704 of FISA)
-      num_orders: "1,167 orders"
-      num_targets: "1,144"
-    - authority: |
-                  __Section 702__
-                  of FISA
-      num_orders: "1 order"
-      num_targets: "89,138"
-    - authority: |
-                  __FISA Pen Register/Trap and Trace__
-                  (Title IV of FISA)
-      num_orders: "131 orders"
-      num_targets: "319"
+data:
+- class: table-header
+  company_name: Company Name
+  amount_of_employees: Amount of Employees
+  website_url: Website URL
+  official_statement: Official Statement
+  sec_filing: SEC Filing
+  citations: Citations
+  exposure_level: Exposure Level
+
+- company_name: "Fastly"
+  amount_of_employees: "1112"
+  website_url: "https://fastly.com"
+  official_statement: "n/a" 
+  sec_filing: "n/a"
+  citations: "n/a"
+  exposure_level: "n/a"
 
 --- /table ---
 
-wow such surveillance
+
+# Companies NOT affected
+
+--- table ---
+
+class: [not-affected-table, table]
+
+cols:
+- name: company_name
+- name: official_statement
+
+data:
+- class: table-header
+  company_name: Company Name
+  official_statement: Official Statement
+
+- company_name: "TBA"
+  official_statement: "TBA"
+
+--- /table ---
+
