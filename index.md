@@ -87,6 +87,15 @@ data:
              [Official Twitter statement](https://twitter.com/circle/status/1634341007306248199)           
   exposure_level: "unknown"
 
+- company_name: "CostPlusDrugs"
+  amount_of_employees: "unknown"
+  website_url: "[https://CostsPlusDrugs.com](https://CostsPlusDrugs.com)"
+  official_statement: ""
+  sec_filing: "n/a"
+  citations: |
+             [CostsPlus Drugs.com deals with SVB. So we had, I think we had 3.1 million in there](https://www.thestreet.com/technology/mark-cuban-had-millions-at-failed-silicon-valley-bank)           
+  exposure_level: "unknown"
+
 - company_name: "Etsy"
   amount_of_employees: "2790"
   website_url: "[https://etsy.com](https://etsy.com)"
