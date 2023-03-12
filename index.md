@@ -11,6 +11,7 @@
 An open-source database of companies who have been affected (or not) by the collapse of SVB.
 
 Contribute to the project via [https://github.com/ghuntley/affectedbysvbornot.com](https://github.com/ghuntley/affectedbysvbornot.com/blob/main/index.md).
+
 # Companies affected
 
 --- table ---
