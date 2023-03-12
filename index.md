@@ -18,7 +18,7 @@ Contribute to the project via [https://github.com/ghuntley/affectedbysvbornot.co
 
 Below you will find companies who have publically (or privately with citations) revealed that they have been affected by the collapse of SVB. There are tens of thousands to hundreds(?) of thousands of companies affected as revealed by this Google Dork.
 
-[https://www.google.com/search?q=(121140399+OR+121145145+OR+SVBKUS6S)+AND+33********+filetype:xls+|+pdf+|+doc+|+txt+-site:svb.com&filter=0&biw=1659&bih=1048&dpr=2](https://www.google.com/search?q=(121140399+OR+121145145+OR+SVBKUS6S)+AND+33********+filetype:xls+|+pdf+|+doc+|+txt+-site:svb.com&filter=0&biw=1659&bih=1048&dpr=2)
+[https://t.co/emOPKUnJaa](https://t.co/emOPKUnJaa)
 
 >
 > The query pulls back documents containing an #SVB routing or swift number + an @SVB_Financial account number.
