@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kramdown (1.17.0)
+    kramdown-tablerize (1.0.2)
+      kramdown (~> 1.2, >= 1.2.0)
+      tablerize (~> 1.0, >= 1.0.0)
+    tablerize (1.0.2)
+      kramdown (~> 1.2, >= 1.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kramdown-tablerize
+
+BUNDLED WITH
+   1.17.2
