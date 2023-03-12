@@ -37,7 +37,6 @@ data:
   official_statement: Official Statement
   sec_filing: SEC Filing
   citations: Citations
-  exposure_level: Exposure Level
   
 - company_name: "Camp"
   amount_of_employees: "unknown"
@@ -47,7 +46,6 @@ data:
   sec_filing: "n/a"
   citations: |
              [BANKRUN](./citations/camp.png) promotion code.           
-  exposure_level: "unknown"
 
 - company_name: "Chargebee"
   amount_of_employees: "1000"
@@ -56,7 +54,6 @@ data:
   sec_filing: "n/a"
   citations: |
              ["Chargebee requests that you do not send payments to our SVB account" email sent to customers](./citations/chargebee.png)
-  exposure_level: "unknown"
 
 - company_name: "Circle"
   amount_of_employees: "unknown"
@@ -66,7 +63,6 @@ data:
   sec_filing: "n/a"
   citations: |
              [Official Twitter statement](https://twitter.com/circle/status/1634341007306248199)           
-  exposure_level: "unknown"
 
 - company_name: "Etsy"
   amount_of_employees: "2790"
@@ -75,7 +71,6 @@ data:
   sec_filing: "n/a"
   citations: |
              [Etsy sellers](https://twitter.com/LindseyCreated/status/1634349251651067907) reporting payouts have not been processed with screenshot of an email from Esty.           
-  exposure_level: "unknown"
 
 - company_name: "Fastly"
   amount_of_employees: "1112"
@@ -84,7 +79,6 @@ data:
   sec_filing: "n/a"
   citations: |
              [An email from account managers sent to Fastlys customers](./citations/fastly.jpeg). Our payment instructions have changed. Effective immediately, please cease sending payments to our Silicon Valley Bank (SVB) Account and direct all payments to the following account at JP Morgan Chase.
-  exposure_level: "unknown"
 
 - company_name: "Juniper Networks"
   amount_of_employees: "10901"
@@ -93,7 +87,6 @@ data:
   sec_filing: "n/a"
   citations: |
              [JUNIPER NETWORKS INC - MAINTAINS OPERATING ACCOUNTS AT SVB WITH MINIMAL CASH BALANCE OF LESS THAN 1% OF TOTAL CASH, CASH EQUIVALENTS AND INVESTMENTS](https://kalkinemedia.com/us/tech-corner/tech-news/brief-juniper-networks-inc-maintains-operating-accounts-at-svb-with-minimal-cash-balance)
-  exposure_level: "unknown"
 
 - company_name: "KeyboardIO"
   amount_of_employees: "15"
@@ -102,7 +95,6 @@ data:
   sec_filing: "n/a"
   citations: |
              [A tweet from the company account](https://twitter.com/keyboardio/status/1634383443982442497)
-  exposure_level: "unknown"
 
 - company_name: "Rippling"
   amount_of_employees: "1700"
@@ -111,8 +103,6 @@ data:
   sec_filing: "n/a"
   citations: |
             [SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
-  exposure_level: "unknown"
-
 
 - company_name: "Roblox"
   amount_of_employees: "2100"
@@ -120,7 +110,6 @@ data:
   official_statement: "approximately 5% of its $3 billion cash and securities balance was held at SVB as of Feb. 28, 2023" 
   sec_filing: "[https://d18rn0p25nwr6d.cloudfront.net/CIK-0001315098/05c0fe85-052c-4786-980c-7bdf467f8258.pdf](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001315098/05c0fe85-052c-4786-980c-7bdf467f8258.pdf)"
   citations: ""
-  exposure_level: "unknown"
 
 - company_name: "Rocket Lab USA"
   amount_of_employees: "1300"
@@ -128,7 +117,6 @@ data:
   official_statement: "Rocket Lab USA said it had $38 million in cash, or 7.9% of its total cash as of Dec. 31, 2022, with SVB" 
   sec_filing: "[https://d18rn0p25nwr6d.cloudfront.net/CIK-0001819994/b644cf38-1413-43b7-bdb7-a0292b3ac1b3.pdf](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001819994/b644cf38-1413-43b7-bdb7-a0292b3ac1b3.pdf)"
   citations: ""
-  exposure_level: "unknown"
 
 - company_name: "Roku"
   amount_of_employees: "3000"
@@ -136,7 +124,6 @@ data:
   official_statement: "At this time, the Company does not know to what extent the Company will be able to recover its cash on deposit at SVB" 
   sec_filing: "[https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm](https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm)"
   citations: ""
-  exposure_level: "unknown"
 
 - company_name: "Strongsuit"
   amount_of_employees: "unknown"
@@ -145,7 +132,6 @@ data:
   sec_filing: "n/a"
   citations: |
              [A tweet from the company founder](https://twitter.com/lcmichaelides/status/1634654751479541760?s=20)
-  exposure_level: "unknown"
 
 - company_name: "SoFi"
   amount_of_employees: "unknown"
@@ -153,7 +139,6 @@ data:
   official_statement: "We have no assets with SVB. Our only exposure is a very small lending facility that is provided to us for less than $40m which is unaffected by the FDIC’s receivership of Silicon Valley Bank. Your money is safe with SoFi." 
   sec_filing: "[https://twitter.com/SoFi/status/1634269534604472321](https://twitter.com/SoFi/status/1634269534604472321)"
   citations: ""
-  exposure_level: "unknown"
 
 - company_name: "Perplexity AI"
   amount_of_employees: "unknown"
@@ -161,7 +146,6 @@ data:
   official_statement: "We use SVB for @perplexity_ai and were impacted by the recent events. Thanks to @natfriedman for stepping forward to help us with emergency funding on real short notice. Fortunate to be working with him!" 
   sec_filing: ""
   citations: "[Tweet by the founder](https://twitter.com/AravSrinivas/status/1634738893303189505)."
-  exposure_level: "unknown"
 
 - company_name: "Vimeo"
   amount_of_employees: "1300"
@@ -169,7 +153,6 @@ data:
   official_statement: "The company believes it does not have exposure to any liquidity concern at SVB. The Company has a well structured and diverse set of banking partners with no bank holding over 25% of its total cash" 
   sec_filing: "[https://investors.vimeo.com/static-files/e2ef741c-1688-48a3-8b4e-1c12e87d2a91](https://investors.vimeo.com/static-files/e2ef741c-1688-48a3-8b4e-1c12e87d2a91)"
   citations: ""
-  exposure_level: "unknown"
 
 --- /table ---
 
