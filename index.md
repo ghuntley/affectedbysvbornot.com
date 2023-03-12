@@ -101,8 +101,12 @@ data:
   company_name: Company Name
   official_statement: Official Statement
 
+- company_name: "Gutso"
+  official_statement: "[We do not use SVB](https://twitter.com/lawtraveler/status/1634771841545031680)"
+
 - company_name: "Qovery"
   official_statement: "[It's a sad day for the startup ecosystem! While there is no direct impact on Qovery](https://twitter.com/rophilogene/status/1634597792495681537)"
+
 
 --- /table ---
 
