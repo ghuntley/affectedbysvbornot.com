@@ -33,7 +33,7 @@ jobs:
           make all
       - name: Commit and push if it changed
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT }}
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
