@@ -74,6 +74,15 @@ data:
              [A tweet from the company founder](https://twitter.com/lcmichaelides/status/1634654751479541760?s=20)
   exposure_level: "unknown"
 
+- company_name: "Rippling"
+  amount_of_employees: "1700"
+  website_url: "[https://www.rippling.com/](https://www.rippling.com/)"
+  official_statement: "" 
+  sec_filing: "n/a"
+  citations: |
+            [SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
+  exposure_level: "unknown"
+
 - company_name: "Strongsuit"
   amount_of_employees: "15"
   website_url: "[https://shop.keyboard.io/](https://shop.keyboard.io/)"
