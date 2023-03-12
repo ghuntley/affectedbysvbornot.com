@@ -123,6 +123,6 @@ data:
 
 # Recommended Reading / Watching
 
-- [FDIC Statement: Failed Bank Information for Silicon Valley Bank, Santa Clara, CA)[https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/silicon-valley.html]
+- [FDIC Statement: Failed Bank Information for Silicon Valley Bank, Santa Clara, CA](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/silicon-valley.html)
 - [The All In Podcast: Slides explaining how SVB Happened](https://twitter.com/markjeffrey/status/1634673778302259200)
 
