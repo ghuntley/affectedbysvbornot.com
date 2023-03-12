@@ -48,12 +48,20 @@ data:
 
 - company_name: "Fastly"
   amount_of_employees: "1112"
-  website_url: "https://fastly.com"
+  website_url: "[https://fastly.com](https://fastly.com)"
   official_statement: "n/a" 
   sec_filing: "n/a"
   citations: |
              [An email from account managers sent to Fastlys customers](./citations/fastly.jpeg). Our payment instructions have changed. Effective immediately, please cease sending payments to our Silicon Valley Bank (SVB) Account and direct all payments to the following account at JP Morgan Chase.
   exposure_level: "unknown"
+
+- company_name: "KeyboardIO"
+  amount_of_employees: "unknown"
+  website_url: "[https://shop.keyboard.io/](https://shop.keyboard.io/)"
+  official_statement: "We're fine, but, uh, our bank failed this morning." 
+  sec_filing: "n/a"
+  citations: |
+             [A tweet from the company account](https://twitter.com/keyboardio/status/1634383443982442497)
 
 --- /table ---
 
