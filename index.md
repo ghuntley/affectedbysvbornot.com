@@ -83,8 +83,8 @@ data:
   company_name: Company Name
   official_statement: Official Statement
 
-- company_name: "TBA"
-  official_statement: "TBA"
+- company_name: "Qovery"
+  official_statement: "[It's a sad day for the startup ecosystem! While there is no direct impact on Qovery](https://twitter.com/rophilogene/status/1634597792495681537)"
 
 --- /table ---
 
