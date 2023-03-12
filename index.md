@@ -182,7 +182,7 @@ data:
   official_statement: Official Statement
 
 - company_name: "fuboTV"
-  official_statement: "[We do not hold any deposit or have any investments at SVB]([https://twitter.com/lawtraveler/status/1634771841545031680](https://www.sec.gov/ix?doc=/Archives/edgar/data/1484769/000149315223007280/form8-k.htm))"
+  official_statement: "[We do not hold any deposit or have any investments at SVB](https://www.sec.gov/ix?doc=/Archives/edgar/data/1484769/000149315223007280/form8-k.htm)"
 
 
 - company_name: "Gusto"
