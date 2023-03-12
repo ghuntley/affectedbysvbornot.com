@@ -8,7 +8,9 @@
 
 # affectedbysvbornot.com - Affected by the collapse of Silicon Valley Bank or not?
 
-Test
+An open-source listing of companies who have been affected (or not) by the collapse of SVB.
+
+Contribute to the project via [https://github.com/ghuntley/affectedbysvbornot.com](https://github.com/ghuntley/affectedbysvbornot.com).
 
 # Companies affected
 
@@ -34,6 +36,16 @@ data:
   sec_filing: SEC Filing
   citations: Citations
   exposure_level: Exposure Level
+
+- company_name: "Camp"
+  amount_of_employees: "unknown"
+  website_url: "https://camp.com"
+  official_statement: |
+             [If you are in need of Toys, Gifts, etc. I would really appreciate you shopping from http://Camp.com today. We will give ya a nice discount if you need/want it. or pay full price](./citations/camp.png) - [Ben Kaufman](https://twitter.com/benkaufman/status/1634280374472962049)
+  sec_filing: "n/a"
+  citations: |
+             [BANKRUN](./citations/camp.png) promotion code.           
+  exposure_level: "unknown"
 
 - company_name: "Fastly"
   amount_of_employees: "1112"
@@ -76,7 +88,7 @@ class: [payment-terms, table]
 cols:
 - name: company_name
 - name: official_statement
-  url: url
+- name: url
 
 data:
 - class: table-header
@@ -91,5 +103,5 @@ data:
 
 --- /table ---
 
-# Latest news
+# Recommended Reading / Watching
 
