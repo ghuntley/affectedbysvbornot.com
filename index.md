@@ -77,6 +77,15 @@ data:
              [An email from account managers sent to Fastlys customers](./citations/fastly.jpeg). Our payment instructions have changed. Effective immediately, please cease sending payments to our Silicon Valley Bank (SVB) Account and direct all payments to the following account at JP Morgan Chase.
   exposure_level: "unknown"
 
+- company_name: "Juniper Networks"
+  amount_of_employees: "10901"
+  website_url: "[https://www.juniper.net/](https://www.juniper.net/)"
+  official_statement: "Juniper loss as of result of SVB receivership is immaterial - Reuters" 
+  sec_filing: "n/a"
+  citations: |
+             [JUNIPER NETWORKS INC - MAINTAINS OPERATING ACCOUNTS AT SVB WITH MINIMAL CASH BALANCE OF LESS THAN 1% OF TOTAL CASH, CASH EQUIVALENTS AND INVESTMENTS](https://kalkinemedia.com/us/tech-corner/tech-news/brief-juniper-networks-inc-maintains-operating-accounts-at-svb-with-minimal-cash-balance)
+  exposure_level: "unknown"
+
 - company_name: "KeyboardIO"
   amount_of_employees: "15"
   website_url: "[https://shop.keyboard.io/](https://shop.keyboard.io/)"
