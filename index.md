@@ -38,6 +38,16 @@ data:
   sec_filing: SEC Filing
   citations: Citations
   exposure_level: Exposure Level
+  
+- company_name: "Circle"
+  amount_of_employees: "unknown"
+  website_url: "[https://circle.com](https://circle.com)"
+  official_statement: |
+             [Silicon Valley Bank is one of six banking partners Circle uses for managing the ~25%  portion of USDC reserves held in cash.](./citations/circle.png) - [Twitter Link](https://twitter.com/circle/status/1634341007306248199)
+  sec_filing: "n/a"
+  citations: |
+             [Official Twitter statement](https://twitter.com/circle/status/1634341007306248199)           
+  exposure_level: "unknown"
 
 - company_name: "Camp"
   amount_of_employees: "unknown"
