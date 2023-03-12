@@ -122,19 +122,19 @@ data:
   citations: ""
   exposure_level: "unknown"
 
-- company_name: "Roku"
-  amount_of_employees: "3000"
-  website_url: "[https://www.roku.com/](https://www.roku.com/)"
-  official_statement: "At this time, the Company does not know to what extent the Company will be able to recover its cash on deposit at SVB" 
-  sec_filing: "[https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm](https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm)"
-  citations: ""
-  exposure_level: "unknown"
-
 - company_name: "Rocket Lab USA"
   amount_of_employees: "1300"
   website_url: "[https://www.rocketlabusa.com/](https://www.rocketlabusa.com/)"
   official_statement: "Rocket Lab USA said it had $38 million in cash, or 7.9% of its total cash as of Dec. 31, 2022, with SVB" 
   sec_filing: "[https://d18rn0p25nwr6d.cloudfront.net/CIK-0001819994/b644cf38-1413-43b7-bdb7-a0292b3ac1b3.pdf](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001819994/b644cf38-1413-43b7-bdb7-a0292b3ac1b3.pdf)"
+  citations: ""
+  exposure_level: "unknown"
+
+- company_name: "Roku"
+  amount_of_employees: "3000"
+  website_url: "[https://www.roku.com/](https://www.roku.com/)"
+  official_statement: "At this time, the Company does not know to what extent the Company will be able to recover its cash on deposit at SVB" 
+  sec_filing: "[https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm](https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm)"
   citations: ""
   exposure_level: "unknown"
 
@@ -145,6 +145,14 @@ data:
   sec_filing: "n/a"
   citations: |
              [A tweet from the company founder](https://twitter.com/lcmichaelides/status/1634654751479541760?s=20)
+  exposure_level: "unknown"
+
+- company_name: "Vimeo"
+  amount_of_employees: "1300"
+  website_url: "[https://www.vimeo.com/](https://www.vimeo.com/)"
+  official_statement: "The company believes it does not have exposure to any liquidity concern at SVB. The Company has a well structured and diverse set of banking partners with no bank holding over 25% of its total cash" 
+  sec_filing: "[https://investors.vimeo.com/static-files/e2ef741c-1688-48a3-8b4e-1c12e87d2a91](https://investors.vimeo.com/static-files/e2ef741c-1688-48a3-8b4e-1c12e87d2a91)"
+  citations: ""
   exposure_level: "unknown"
 
 --- /table ---
