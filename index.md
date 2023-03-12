@@ -62,6 +62,7 @@ data:
   sec_filing: "n/a"
   citations: |
              [A tweet from the company account](https://twitter.com/keyboardio/status/1634383443982442497)
+  exposure_level: "unknown"
 
 --- /table ---
 
