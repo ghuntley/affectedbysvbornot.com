@@ -65,7 +65,7 @@ data:
   official_statement: ""
   sec_filing: "n/a"
   citations: |
-             [Etsy sellers]([./citations/camp.png](https://twitter.com/LindseyCreated/status/1634349251651067907)) reporting payouts have not been processed with screenshot of an email from Esty.           
+             [Etsy sellers](https://twitter.com/LindseyCreated/status/1634349251651067907) reporting payouts have not been processed with screenshot of an email from Esty.           
   exposure_level: "unknown"
 
 - company_name: "Fastly"
