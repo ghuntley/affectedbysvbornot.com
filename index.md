@@ -16,6 +16,22 @@ Contribute to the project via [https://github.com/ghuntley/affectedbysvbornot.co
 
 # Companies affected
 
+Below you will find companies who have publically (or privately with citations) revealed that they have been affected by the collapse of SVB. There are tens of thousands to hundreds(?) of thousands of companies affected as revealed by this Google Dork.
+
+> https://www.google.com/search?q=(121140399+OR+121145145+OR+SVBKUS6S)+AND+33********+filetype:xls+|+pdf+|+doc+|+txt+-site:svb.com&filter=0&biw=1659&bih=1048&dpr=2
+>
+> The query pulls back documents containing an #SVB routing or swift number + an @SVB_Financial account number.
+>
+> The name of the business tied to the SVB account number is usually within 100 characters of the account number and typically labeled "beneficiary" or "for credit of" (or some close variation on those themes).
+>
+> In edge cases where a company name is not found near the account number, the account holder is often the source/author of the document, e.g., http://bit.ly/svb-invoice-example.
+>
+> Google only returns 1000 results for any given query - so retrieving the entire results set would require narrowing each query's scope and then iterating through the targets at a finer granularity. 
+> 
+> For example, the current query looks for account numbers matching 33********. Replacing that with 33**NN****, where NN is 01-99  would let you iterate through ranges of account numbers  (33**01****, 33**02****, and so on...).
+>
+> Other approaches include geographically scoping the queries by adding "AND NJ" to queries (and iterating through each two-byte state code) or tacking on partial zip codes, etc...
+
 --- table ---
 
 class: [affected-table, table]
