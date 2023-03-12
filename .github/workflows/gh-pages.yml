@@ -27,6 +27,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Build website
+        uses: actions/setup-ruby@v1
         run: |-
           make all
       - name: Commit and push if it changed
