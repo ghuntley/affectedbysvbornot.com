@@ -147,6 +147,14 @@ data:
              [A tweet from the company founder](https://twitter.com/lcmichaelides/status/1634654751479541760?s=20)
   exposure_level: "unknown"
 
+- company_name: "SoFi"
+  amount_of_employees: "unknown"
+  website_url: "[https://www.sofi.com/](https://www.sofi.com/)"
+  official_statement: "We have no assets with SVB. Our only exposure is a very small lending facility that is provided to us for less than $40m which is unaffected by the FDIC’s receivership of Silicon Valley Bank. Your money is safe with SoFi." 
+  sec_filing: "[https://twitter.com/SoFi/status/1634269534604472321](https://twitter.com/SoFi/status/1634269534604472321)"
+  citations: ""
+  exposure_level: "unknown"
+
 - company_name: "Vimeo"
   amount_of_employees: "1300"
   website_url: "[https://www.vimeo.com/](https://www.vimeo.com/)"
