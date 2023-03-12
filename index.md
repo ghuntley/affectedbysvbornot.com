@@ -39,12 +39,21 @@ data:
 
 - company_name: "Camp"
   amount_of_employees: "unknown"
-  website_url: "https://camp.com"
+  website_url: "[https://camp.com](https://camp.com)"
   official_statement: |
              [If you are in need of Toys, Gifts, etc. I would really appreciate you shopping from http://Camp.com today. We will give ya a nice discount if you need/want it. or pay full price](./citations/camp.png) - [Ben Kaufman](https://twitter.com/benkaufman/status/1634280374472962049)
   sec_filing: "n/a"
   citations: |
              [BANKRUN](./citations/camp.png) promotion code.           
+  exposure_level: "unknown"
+
+- company_name: "Etsy"
+  amount_of_employees: "2790"
+  website_url: "[https://etsy.com](https://etsy.com)"
+  official_statement: ""
+  sec_filing: "n/a"
+  citations: |
+             [Etsy sellers]([./citations/camp.png](https://twitter.com/LindseyCreated/status/1634349251651067907)) reporting payouts have not been processed with screenshot of an email from Esty.           
   exposure_level: "unknown"
 
 - company_name: "Fastly"
