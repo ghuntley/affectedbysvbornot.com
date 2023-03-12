@@ -8,7 +8,7 @@
 
 # affectedbysvbornot.com - Affected by the collapse of Silicon Valley Bank or not?
 
-An open-source listing of companies who have been affected (or not) by the collapse of SVB.
+An open-source database of companies who have been affected (or not) by the collapse of SVB.
 
 Contribute to the project via [https://github.com/ghuntley/affectedbysvbornot.com](https://github.com/ghuntley/affectedbysvbornot.com).
 
