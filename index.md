@@ -8,7 +8,7 @@ Test
     class: [statistics-table, nsa-surveillance-details]
 
     cols:
-    - name: ddd
+    - name: authority
     - name: num_orders
     - name: num_targets
 
