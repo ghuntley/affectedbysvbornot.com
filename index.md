@@ -176,6 +176,9 @@ data:
 - company_name: "Gusto"
   official_statement: "[We do not use SVB](https://twitter.com/lawtraveler/status/1634771841545031680)"
 
+- company_name: "Groundfloor"
+  official_statement: "[Groundfloor's primary banking relationship is with Truist](https://github.com/ghuntley/affectedbysvbornot.com/issues/16)"
+
 - company_name: "Qovery"
   official_statement: "[It's a sad day for the startup ecosystem! While there is no direct impact on Qovery](https://twitter.com/rophilogene/status/1634597792495681537)"
 
