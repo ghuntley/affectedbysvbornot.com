@@ -113,6 +113,15 @@ data:
             [SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
   exposure_level: "unknown"
 
+
+- company_name: "Roku"
+  amount_of_employees: "3000"
+  website_url: "[https://www.strongsuit.co/](https://www.strongsuit.co/)"
+  official_statement: "At this time, the Company does not know to what extent the Company will be able to recover its cash on deposit at SVB" 
+  sec_filing: "[https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm](https://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htm)"
+  citations: ""
+  exposure_level: "unknown"
+
 - company_name: "Strongsuit"
   amount_of_employees: "unknown"
   website_url: "[https://www.strongsuit.co/](https://www.strongsuit.co/)"
