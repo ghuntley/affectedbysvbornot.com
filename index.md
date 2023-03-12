@@ -135,3 +135,8 @@ data:
 - [FDIC Statement: Failed Bank Information for Silicon Valley Bank, Santa Clara, CA](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/silicon-valley.html)
 - [The All In Podcast: Slides explaining how SVB Happened](https://twitter.com/markjeffrey/status/1634673778302259200)
 
+
+# About this website
+
+This website was created and is maintained by [Geoffrey Huntley](https://ghuntley.com/rawlogs/). Contributions are welcome!
+
