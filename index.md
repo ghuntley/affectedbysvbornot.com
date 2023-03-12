@@ -68,12 +68,12 @@ data:
   exposure_level: "unknown"
 
 - company_name: "KeyboardIO"
-  amount_of_employees: "unknown"
-  website_url: "[https://www.strongsuit.co/](https://www.strongsuit.co/)"
-  official_statement: "The financial future of my company, team and family are at risk w/ the collapse of SVB" 
+  amount_of_employees: "15"
+  website_url: "[https://shop.keyboard.io/](https://shop.keyboard.io/)"
+  official_statement: "We're fine, but, uh, our bank failed this morning." 
   sec_filing: "n/a"
   citations: |
-             [A tweet from the company founder](https://twitter.com/lcmichaelides/status/1634654751479541760?s=20)
+             [A tweet from the company account](https://twitter.com/keyboardio/status/1634383443982442497)
   exposure_level: "unknown"
 
 - company_name: "Rippling"
@@ -86,12 +86,12 @@ data:
   exposure_level: "unknown"
 
 - company_name: "Strongsuit"
-  amount_of_employees: "15"
-  website_url: "[https://shop.keyboard.io/](https://shop.keyboard.io/)"
-  official_statement: "We're fine, but, uh, our bank failed this morning." 
+  amount_of_employees: "unknown"
+  website_url: "[https://www.strongsuit.co/](https://www.strongsuit.co/)"
+  official_statement: "The financial future of my company, team and family are at risk w/ the collapse of SVB" 
   sec_filing: "n/a"
   citations: |
-             [A tweet from the company account](https://twitter.com/keyboardio/status/1634383443982442497)
+             [A tweet from the company founder](https://twitter.com/lcmichaelides/status/1634654751479541760?s=20)
   exposure_level: "unknown"
 
 --- /table ---
