@@ -130,6 +130,14 @@ data:
   citations: ""
   exposure_level: "unknown"
 
+- company_name: "Rocket Lab USA"
+  amount_of_employees: "1300"
+  website_url: "[https://www.rocketlabusa.com/](https://www.rocketlabusa.com/)"
+  official_statement: "Rocket Lab USA said it had $38 million in cash, or 7.9% of its total cash as of Dec. 31, 2022, with SVB" 
+  sec_filing: "[https://d18rn0p25nwr6d.cloudfront.net/CIK-0001819994/b644cf38-1413-43b7-bdb7-a0292b3ac1b3.pdf](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001819994/b644cf38-1413-43b7-bdb7-a0292b3ac1b3.pdf)"
+  citations: ""
+  exposure_level: "unknown"
+
 - company_name: "Strongsuit"
   amount_of_employees: "unknown"
   website_url: "[https://www.strongsuit.co/](https://www.strongsuit.co/)"
