@@ -16,6 +16,33 @@
 
 <h1 id="companies-affected">Companies affected</h1>
 
+<p>Below you will find companies who have publically (or privately with citations) revealed that they have been affected by the collapse of SVB. There are tens of thousands to hundreds(?) of thousands of companies affected as revealed by this Google Dork.</p>
+
+<blockquote>
+  <table>
+    <tbody>
+      <tr>
+        <td>https://www.google.com/search?q=(121140399+OR+121145145+OR+SVBKUS6S)+AND+33<strong>**</strong>**+filetype:xls+</td>
+        <td>+pdf+</td>
+        <td>+doc+</td>
+        <td>+txt+-site:svb.com&amp;filter=0&amp;biw=1659&amp;bih=1048&amp;dpr=2</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>The query pulls back documents containing an #SVB routing or swift number + an @SVB_Financial account number.</p>
+
+  <p>The name of the business tied to the SVB account number is usually within 100 characters of the account number and typically labeled “beneficiary” or “for credit of” (or some close variation on those themes).</p>
+
+  <p>In edge cases where a company name is not found near the account number, the account holder is often the source/author of the document, e.g., http://bit.ly/svb-invoice-example.</p>
+
+  <p>Google only returns 1000 results for any given query - so retrieving the entire results set would require narrowing each query’s scope and then iterating through the targets at a finer granularity.</p>
+
+  <p>For example, the current query looks for account numbers matching 33<strong>**</strong><strong>. Replacing that with 33</strong>NN<strong>**, where NN is 01-99  would let you iterate through ranges of account numbers  (33</strong>01<strong>**, 33</strong>02<em>**</em>, and so on…).</p>
+
+  <p>Other approaches include geographically scoping the queries by adding “AND NJ” to queries (and iterating through each two-byte state code) or tacking on partial zip codes, etc…</p>
+</blockquote>
+
 <table class="affected-table table"><tbody>
 <tr class="table-header"><td class="affected-table-company_name">Company Name</td><td class="affected-table-amount_of_employees">Amount of Employees</td><td class="affected-table-website_url">Website URL</td><td class="affected-table-official_statement">Official Statement</td><td class="affected-table-sec_filing">SEC Filing</td><td class="affected-table-citations">Citations</td><td class="affected-table-exposure_level">Exposure Level</td></tr>
 <tr><td class="affected-table-company_name">Camp</td><td class="affected-table-amount_of_employees">unknown</td><td class="affected-table-website_url"><a href="https://camp.com">https://camp.com</a></td><td class="affected-table-official_statement"><a href="./citations/camp.png">If you are in need of Toys, Gifts, etc. I would really appreciate you shopping from http://Camp.com today. We will give ya a nice discount if you need/want it. or pay full price</a> - <a href="https://twitter.com/benkaufman/status/1634280374472962049">Ben Kaufman</a></td><td class="affected-table-sec_filing">n/a</td><td class="affected-table-citations"><a href="./citations/camp.png">BANKRUN</a> promotion code.</td><td class="affected-table-exposure_level">unknown</td></tr>
