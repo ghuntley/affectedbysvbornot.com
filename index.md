@@ -230,6 +230,8 @@ data:
 - company_name: "Qovery"
   official_statement: "[It's a sad day for the startup ecosystem! While there is no direct impact on Qovery](https://twitter.com/rophilogene/status/1634597792495681537)"
 
+- company_name: "scribie.com"
+  official_statement: "[We do not use SVB](https://twitter.com/scribie_com/status/1635157886497357825?s=20)"
 
 --- /table ---
 
